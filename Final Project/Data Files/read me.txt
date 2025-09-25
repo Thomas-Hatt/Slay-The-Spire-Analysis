@@ -1,0 +1,1 @@
+The only fully useful files in here are Runs.accdb (located in this folder) and merged_runs.csv (located in the extracted folder). The other files I have not mentioned are derived and modified to work with both of the aforementioned files.

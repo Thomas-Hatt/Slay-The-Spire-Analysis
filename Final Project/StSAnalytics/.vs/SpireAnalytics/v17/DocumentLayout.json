@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|c:\\users\\clutc\\desktop\\x\\college\\.net programming\\advanced .net programming\\programs\\final project\\stsanalytics\\frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmwebreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmwebreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmwebreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmwebreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|c:\\users\\clutc\\desktop\\x\\college\\.net programming\\advanced .net programming\\programs\\final project\\stsanalytics\\frmcorrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmcorrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmcorrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmcorrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmavgrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmavgrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmavgrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63961B69-F5C3-4A62-80D8-3E623AD1A919}|SpireAnalyticsForms.csproj|solutionrelative:frmavgrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 695,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmImport.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmImport.cs",
+              "RelativeDocumentMoniker": "frmImport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmImport.cs",
+              "RelativeToolTip": "frmImport.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:31:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCorrelations.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmCorrelations.cs",
+              "RelativeDocumentMoniker": "frmCorrelations.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmCorrelations.cs",
+              "RelativeToolTip": "frmCorrelations.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:13:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCorrelations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmCorrelations.cs",
+              "RelativeDocumentMoniker": "frmCorrelations.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmCorrelations.cs [Design]",
+              "RelativeToolTip": "frmCorrelations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:55:26.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAvgRun.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmAvgRun.cs",
+              "RelativeDocumentMoniker": "frmAvgRun.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmAvgRun.cs",
+              "RelativeToolTip": "frmAvgRun.cs",
+              "ViewState": "AgIAADUCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:43:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAvgRun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmAvgRun.cs",
+              "RelativeDocumentMoniker": "frmAvgRun.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmAvgRun.cs [Design]",
+              "RelativeToolTip": "frmAvgRun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:42:57.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmWebReport.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmWebReport.cs",
+              "RelativeDocumentMoniker": "frmWebReport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmWebReport.cs",
+              "RelativeToolTip": "frmWebReport.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmWebReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmWebReport.cs",
+              "RelativeDocumentMoniker": "frmWebReport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmWebReport.cs [Design]",
+              "RelativeToolTip": "frmWebReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:55.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmMenu.cs [Design]",
+              "RelativeToolTip": "frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:48.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmImport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmImport.cs",
+              "RelativeDocumentMoniker": "frmImport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Advanced .NET Programming\\Programs\\Final Project\\StSAnalytics\\frmImport.cs [Design]",
+              "RelativeToolTip": "frmImport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:16:43.773Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

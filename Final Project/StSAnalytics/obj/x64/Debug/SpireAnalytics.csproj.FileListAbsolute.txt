@@ -1,0 +1,15 @@
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.csproj.AssemblyReference.cache
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\VideoAnalytics.Properties.Resources.resources
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.csproj.GenerateResource.cache
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\VideoAnalytics.exe
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\VideoAnalytics.pdb
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\bin\x64\Debug\VideoAnalytics.exe.config
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\bin\x64\Debug\VideoAnalytics.exe
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\bin\x64\Debug\VideoAnalytics.pdb
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\bin\x64\Debug\VideoControl.dll
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAna.F6E890C0.Up2Date
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.frmImport.resources
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.frmMenu.resources
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.frmAvgRun.resources
+C:\Users\clutc\Desktop\x\College\.NET Programming\Advanced .NET Programming\Programs\Final Project\StSAnalytics\obj\x64\Debug\SpireAnalytics.frmCorrelations.resources
