@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SpireAnalytics.exe" version="1.0.0.7" publicKeyToken="426234efa34390a0" language="neutral" processorArchitecture="amd64" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SpireAnalytics" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <commandLine file="SpireAnalytics.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SpireAnalytics.exe" size="58155992">
+      <assemblyIdentity name="SpireAnalytics" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nDrsRUjEYRxOmuLcBqTyIIKPLcWDGujV+c29k724mcs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VideoControl.dll" size="9216">
+      <assemblyIdentity name="VideoControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VxZNU0zQYT66Ihba9+vmS5A70EGJLurLCHdYQNEGtsg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="bin\Debug\Runs.accdb" size="557056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6tmvAu73JcvkvP49eFddRDCkPSPa9Et4vuRk5pLj2us=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Runs.accdb" size="557056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p83mIjZmezqz1W3DbcvpJ8SZz+uc+aXj6qS9KczLWCo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RunsQueried.accdb" size="12685312">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>x8OdEPKS3Oj8j0RfFDgr5ZQN4L7XGjNworF+itiiz+c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SpireAnalytics.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-L7F0NMF\Hatt" issuerKeyHash="bad6648ba3595381e8c7e84fbb8e8a886d98530b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/qBaNc8Uo+dDIU5U1KBbBzPSAh6DZtKSy/pPpn7W0lY=</DigestValue></Reference></SignedInfo><SignatureValue>mZyko0KcSnAJg8MYMkuoFCEMCC1oSICoQkaEx1Bandk0mU8h1zCyEcS5s2AIDTJeDWkwogUkTGloNQDGjPiv6QVZ9GzR2WSTRIPCj6QatqYHCel7TIDlSON5w5Y6jH2euTrrsvg8JD+HTyje5AY5jaxce4jSsvyx8cwMW+8T+Ug=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vgLwJGEWSisow5fNCpKyEk2RDVnwI1vj5ekEseGEPGjnRL31P3pbZqRR05b0imGbUg5A4c2bzMQsvcgv6ue5hCSyB80TUGgZSwmhHqbwzyXl/TJYWuD6eUxLWqWcthfiWn4Fnb0LkWKXRfobzczEZDkKZJ85owkX9mSrjOiWASE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="56d2d67ea64ffacb92d266831e02d233075ba0d4544e2143e7a314cf355aa0fe" Description="" Url=""><as:assemblyIdentity name="SpireAnalytics.exe" version="1.0.0.7" publicKeyToken="426234efa34390a0" language="neutral" processorArchitecture="amd64" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-L7F0NMF\Hatt</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wE+yqay+MwI6wUs0+VTl4TnpXQ18C2GZvSUQ6TFuFvY=</DigestValue></Reference></SignedInfo><SignatureValue>mhJL4jwfVFWbx9hFEw6KDU3Jld3rUatW3Mc3J2J+e9oGYb6NNoopF4QT0W6UGPxrtuN/TQTKVh89aEVNTzVZ+qdSkgn8pd1OkJUHC8eGAhpEo3QCSo7e3xbghce01mmVDQkWe0/pRKVka3T+KCkB5SrYJWDQIjy6ZMcNNFEPBmw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vgLwJGEWSisow5fNCpKyEk2RDVnwI1vj5ekEseGEPGjnRL31P3pbZqRR05b0imGbUg5A4c2bzMQsvcgv6ue5hCSyB80TUGgZSwmhHqbwzyXl/TJYWuD6eUxLWqWcthfiWn4Fnb0LkWKXRfobzczEZDkKZJ85owkX9mSrjOiWASE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQQWLvd4Sx95xGT7UTG54JvjANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEwANwBGADAATgBNAEYAXABIAGEAdAB0MB4XDTI1MDQyMTE4NDIyMVoXDTI2MDQyMjAwNDIyMVowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBMADcARgAwAE4ATQBGAFwASABhAHQAdDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvgLwJGEWSisow5fNCpKyEk2RDVnwI1vj5ekEseGEPGjnRL31P3pbZqRR05b0imGbUg5A4c2bzMQsvcgv6ue5hCSyB80TUGgZSwmhHqbwzyXl/TJYWuD6eUxLWqWcthfiWn4Fnb0LkWKXRfobzczEZDkKZJ85owkX9mSrjOiWASECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAk3ieN+EIKLNSedZIY9miX0pl03vd7HqbnhHD418Ngob2qZnkPJXsBfEgHT0L+FHwZAK7+LOkQsZJRUQRRg8POsZCGwJ+8m2+W6ND3pYG6+qEG50cV2P4XNBrD+lNiu5yso9Xb857A3h1wRPoKto0wJTfiUJp//1v55M8SROv/tQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
